@@ -1,0 +1,4 @@
+name: yesssirDLS
+version: '${version}'
+main: xyz.skaerf.yesssirdls.YesssirDLS
+api-version: '1.20'
